@@ -1,0 +1,20 @@
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Emeris 2026\Semester 1\PROG6221\Class Activities\FarmerWPF Application\bin\Debug\net10.0-windows\FarmerWPF Application.exe
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Emeris 2026\Semester 1\PROG6221\Class Activities\FarmerWPF Application\bin\Debug\net10.0-windows\FarmerWPF Application.deps.json
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Emeris 2026\Semester 1\PROG6221\Class Activities\FarmerWPF Application\bin\Debug\net10.0-windows\FarmerWPF Application.runtimeconfig.json
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Emeris 2026\Semester 1\PROG6221\Class Activities\FarmerWPF Application\bin\Debug\net10.0-windows\FarmerWPF Application.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Emeris 2026\Semester 1\PROG6221\Class Activities\FarmerWPF Application\bin\Debug\net10.0-windows\FarmerWPF Application.pdb
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Emeris 2026\Semester 1\PROG6221\Class Activities\FarmerWPF Application\obj\Debug\net10.0-windows\MainWindow.g.cs
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Emeris 2026\Semester 1\PROG6221\Class Activities\FarmerWPF Application\obj\Debug\net10.0-windows\App.g.cs
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Emeris 2026\Semester 1\PROG6221\Class Activities\FarmerWPF Application\obj\Debug\net10.0-windows\FarmerWPF Application_MarkupCompile.cache
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Emeris 2026\Semester 1\PROG6221\Class Activities\FarmerWPF Application\obj\Debug\net10.0-windows\FarmerWPF Application_MarkupCompile.lref
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Emeris 2026\Semester 1\PROG6221\Class Activities\FarmerWPF Application\obj\Debug\net10.0-windows\MainWindow.baml
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Emeris 2026\Semester 1\PROG6221\Class Activities\FarmerWPF Application\obj\Debug\net10.0-windows\FarmerWPF Application.g.resources
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Emeris 2026\Semester 1\PROG6221\Class Activities\FarmerWPF Application\obj\Debug\net10.0-windows\FarmerWPF Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Emeris 2026\Semester 1\PROG6221\Class Activities\FarmerWPF Application\obj\Debug\net10.0-windows\FarmerWPF Application.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Emeris 2026\Semester 1\PROG6221\Class Activities\FarmerWPF Application\obj\Debug\net10.0-windows\FarmerWPF Application.AssemblyInfo.cs
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Emeris 2026\Semester 1\PROG6221\Class Activities\FarmerWPF Application\obj\Debug\net10.0-windows\FarmerWPF Application.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Emeris 2026\Semester 1\PROG6221\Class Activities\FarmerWPF Application\obj\Debug\net10.0-windows\FarmerWPF Application.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Emeris 2026\Semester 1\PROG6221\Class Activities\FarmerWPF Application\obj\Debug\net10.0-windows\refint\FarmerWPF Application.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Emeris 2026\Semester 1\PROG6221\Class Activities\FarmerWPF Application\obj\Debug\net10.0-windows\FarmerWPF Application.pdb
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Emeris 2026\Semester 1\PROG6221\Class Activities\FarmerWPF Application\obj\Debug\net10.0-windows\FarmerWPF Application.genruntimeconfig.cache
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Emeris 2026\Semester 1\PROG6221\Class Activities\FarmerWPF Application\obj\Debug\net10.0-windows\ref\FarmerWPF Application.dll
